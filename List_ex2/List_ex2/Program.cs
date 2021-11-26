@@ -9,11 +9,7 @@ namespace List_ex2
         {
 
             Console.WriteLine("A list of numbers");
-            List<int> numbers = new List<int>(10);
-            for (int i = 0; i < numbers.Capacity; i++)
-            {
-                numbers.Add(int.Parse(Console.ReadLine()));
-            }
+            List<int> numbers = new List<int>(new int[] { 65, 47, 100, 3, 19 });            
             Console.WriteLine(string.Join(", ", numbers));
 
         }
