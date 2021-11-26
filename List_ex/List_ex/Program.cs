@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace List_ex
 {
@@ -7,6 +8,7 @@ namespace List_ex
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            List<int> numbers = new List<int>();
         }
     }
 }
