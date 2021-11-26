@@ -7,8 +7,8 @@ namespace List_ex
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("A list of numbers");
-            List<int> numbers = new List<int>(10);//yes
+            Console.WriteLine("A list of words");
+            List<string> numbers = new List<string>();
 
         }
     }
