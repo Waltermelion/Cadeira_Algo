@@ -7,8 +7,14 @@ namespace List_ex
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("A list of words");
-            List<string> numbers = new List<string>();
+            List<string> palavras = new List<string>(10);
+            for (int i = 0; i < palavras.Capacity; i++)
+            {
+                palavras.Add(Console.ReadLine());
+            }
+            
 
         }
     }

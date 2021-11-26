@@ -1,0 +1,14 @@
+C:\Users\A040267\OneDrive - Maieutica\Cadeira_Algo\List_ex\List_ex\bin\Debug\netcoreapp3.1\List_ex.exe
+C:\Users\A040267\OneDrive - Maieutica\Cadeira_Algo\List_ex\List_ex\bin\Debug\netcoreapp3.1\List_ex.deps.json
+C:\Users\A040267\OneDrive - Maieutica\Cadeira_Algo\List_ex\List_ex\bin\Debug\netcoreapp3.1\List_ex.runtimeconfig.json
+C:\Users\A040267\OneDrive - Maieutica\Cadeira_Algo\List_ex\List_ex\bin\Debug\netcoreapp3.1\List_ex.runtimeconfig.dev.json
+C:\Users\A040267\OneDrive - Maieutica\Cadeira_Algo\List_ex\List_ex\bin\Debug\netcoreapp3.1\List_ex.dll
+C:\Users\A040267\OneDrive - Maieutica\Cadeira_Algo\List_ex\List_ex\bin\Debug\netcoreapp3.1\List_ex.pdb
+C:\Users\A040267\OneDrive - Maieutica\Cadeira_Algo\List_ex\List_ex\obj\Debug\netcoreapp3.1\List_ex.csproj.AssemblyReference.cache
+C:\Users\A040267\OneDrive - Maieutica\Cadeira_Algo\List_ex\List_ex\obj\Debug\netcoreapp3.1\List_ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A040267\OneDrive - Maieutica\Cadeira_Algo\List_ex\List_ex\obj\Debug\netcoreapp3.1\List_ex.AssemblyInfoInputs.cache
+C:\Users\A040267\OneDrive - Maieutica\Cadeira_Algo\List_ex\List_ex\obj\Debug\netcoreapp3.1\List_ex.AssemblyInfo.cs
+C:\Users\A040267\OneDrive - Maieutica\Cadeira_Algo\List_ex\List_ex\obj\Debug\netcoreapp3.1\List_ex.csproj.CoreCompileInputs.cache
+C:\Users\A040267\OneDrive - Maieutica\Cadeira_Algo\List_ex\List_ex\obj\Debug\netcoreapp3.1\List_ex.dll
+C:\Users\A040267\OneDrive - Maieutica\Cadeira_Algo\List_ex\List_ex\obj\Debug\netcoreapp3.1\List_ex.pdb
+C:\Users\A040267\OneDrive - Maieutica\Cadeira_Algo\List_ex\List_ex\obj\Debug\netcoreapp3.1\List_ex.genruntimeconfig.cache
