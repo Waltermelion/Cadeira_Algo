@@ -14,7 +14,7 @@ namespace List_ex
             {
                 palavras.Add(Console.ReadLine());
             }
-            
+            Console.WriteLine(string.Join(", ",palavras));
 
         }
     }
