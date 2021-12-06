@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "pysusa6JmcuuSEZcZ8IIsrDiHVZCgHApb+jWZqYnmezojiYrlVhqL09dVKYJwgmbLS0zZ+Ukp9xe5y14j1TefA==",
+  "dgSpecHash": "2/xQFey7J1KJkrCh+QWOjRA+0XGCA2NZEXKpKArw3ABUN8vSFA2jSowf+UdTbaN2WWhna81NHiiKbb6scITEXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A040267\\OneDrive - Maieutica\\Cadeira_Algo\\List_ex3\\List_ex3\\List_ex3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\OneDrive - Maieutica\\Cadeira_Algo\\List_ex3\\List_ex3\\List_ex3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lherme\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lherme\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lherme\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Lherme\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
   "logs": []
 }
