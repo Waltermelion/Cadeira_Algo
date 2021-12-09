@@ -25,7 +25,7 @@ namespace testbed3
                     case 2:
                         {
                             Console.Clear();
-                            BasicAttack(0);
+                            BasicAttack();
                             break;
                         }
 
@@ -139,7 +139,7 @@ namespace testbed3
         }
 
         //funcao para o roll + basic atk + damage
-        public static int  BasicAttack(int y)
+        public static void  BasicAttack()
         {
             Console.Clear();
             Console.WriteLine("Escolhe a tua arma: Dagger: 1, Shortsword: 2, Battleaxe: 3");
@@ -185,7 +185,6 @@ namespace testbed3
                 Console.ReadKey();
                 Console.Clear();
             }
-            return 0;
         }
 
     }
