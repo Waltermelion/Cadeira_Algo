@@ -1,0 +1,16 @@
+D:\OneDrive - Maieutica\Cadeira_Algo\Dados_dnd\bin\Debug\net5.0\Dados_dnd.exe
+D:\OneDrive - Maieutica\Cadeira_Algo\Dados_dnd\bin\Debug\net5.0\Dados_dnd.deps.json
+D:\OneDrive - Maieutica\Cadeira_Algo\Dados_dnd\bin\Debug\net5.0\Dados_dnd.runtimeconfig.json
+D:\OneDrive - Maieutica\Cadeira_Algo\Dados_dnd\bin\Debug\net5.0\Dados_dnd.runtimeconfig.dev.json
+D:\OneDrive - Maieutica\Cadeira_Algo\Dados_dnd\bin\Debug\net5.0\Dados_dnd.dll
+D:\OneDrive - Maieutica\Cadeira_Algo\Dados_dnd\bin\Debug\net5.0\ref\Dados_dnd.dll
+D:\OneDrive - Maieutica\Cadeira_Algo\Dados_dnd\bin\Debug\net5.0\Dados_dnd.pdb
+D:\OneDrive - Maieutica\Cadeira_Algo\Dados_dnd\obj\Debug\net5.0\Dados_dnd.csproj.AssemblyReference.cache
+D:\OneDrive - Maieutica\Cadeira_Algo\Dados_dnd\obj\Debug\net5.0\Dados_dnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Maieutica\Cadeira_Algo\Dados_dnd\obj\Debug\net5.0\Dados_dnd.AssemblyInfoInputs.cache
+D:\OneDrive - Maieutica\Cadeira_Algo\Dados_dnd\obj\Debug\net5.0\Dados_dnd.AssemblyInfo.cs
+D:\OneDrive - Maieutica\Cadeira_Algo\Dados_dnd\obj\Debug\net5.0\Dados_dnd.csproj.CoreCompileInputs.cache
+D:\OneDrive - Maieutica\Cadeira_Algo\Dados_dnd\obj\Debug\net5.0\Dados_dnd.dll
+D:\OneDrive - Maieutica\Cadeira_Algo\Dados_dnd\obj\Debug\net5.0\ref\Dados_dnd.dll
+D:\OneDrive - Maieutica\Cadeira_Algo\Dados_dnd\obj\Debug\net5.0\Dados_dnd.pdb
+D:\OneDrive - Maieutica\Cadeira_Algo\Dados_dnd\obj\Debug\net5.0\Dados_dnd.genruntimeconfig.cache
