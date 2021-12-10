@@ -1,0 +1,16 @@
+D:\OneDrive - Maieutica\Cadeira_Algo\Freq_1_whole\Freq_1_whole\bin\Debug\net5.0\Freq_1_whole.exe
+D:\OneDrive - Maieutica\Cadeira_Algo\Freq_1_whole\Freq_1_whole\bin\Debug\net5.0\Freq_1_whole.deps.json
+D:\OneDrive - Maieutica\Cadeira_Algo\Freq_1_whole\Freq_1_whole\bin\Debug\net5.0\Freq_1_whole.runtimeconfig.json
+D:\OneDrive - Maieutica\Cadeira_Algo\Freq_1_whole\Freq_1_whole\bin\Debug\net5.0\Freq_1_whole.runtimeconfig.dev.json
+D:\OneDrive - Maieutica\Cadeira_Algo\Freq_1_whole\Freq_1_whole\bin\Debug\net5.0\Freq_1_whole.dll
+D:\OneDrive - Maieutica\Cadeira_Algo\Freq_1_whole\Freq_1_whole\bin\Debug\net5.0\ref\Freq_1_whole.dll
+D:\OneDrive - Maieutica\Cadeira_Algo\Freq_1_whole\Freq_1_whole\bin\Debug\net5.0\Freq_1_whole.pdb
+D:\OneDrive - Maieutica\Cadeira_Algo\Freq_1_whole\Freq_1_whole\obj\Debug\net5.0\Freq_1_whole.csproj.AssemblyReference.cache
+D:\OneDrive - Maieutica\Cadeira_Algo\Freq_1_whole\Freq_1_whole\obj\Debug\net5.0\Freq_1_whole.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Maieutica\Cadeira_Algo\Freq_1_whole\Freq_1_whole\obj\Debug\net5.0\Freq_1_whole.AssemblyInfoInputs.cache
+D:\OneDrive - Maieutica\Cadeira_Algo\Freq_1_whole\Freq_1_whole\obj\Debug\net5.0\Freq_1_whole.AssemblyInfo.cs
+D:\OneDrive - Maieutica\Cadeira_Algo\Freq_1_whole\Freq_1_whole\obj\Debug\net5.0\Freq_1_whole.csproj.CoreCompileInputs.cache
+D:\OneDrive - Maieutica\Cadeira_Algo\Freq_1_whole\Freq_1_whole\obj\Debug\net5.0\Freq_1_whole.dll
+D:\OneDrive - Maieutica\Cadeira_Algo\Freq_1_whole\Freq_1_whole\obj\Debug\net5.0\ref\Freq_1_whole.dll
+D:\OneDrive - Maieutica\Cadeira_Algo\Freq_1_whole\Freq_1_whole\obj\Debug\net5.0\Freq_1_whole.pdb
+D:\OneDrive - Maieutica\Cadeira_Algo\Freq_1_whole\Freq_1_whole\obj\Debug\net5.0\Freq_1_whole.genruntimeconfig.cache
