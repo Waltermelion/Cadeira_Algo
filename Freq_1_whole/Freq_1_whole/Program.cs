@@ -47,6 +47,7 @@ namespace Freq_1_whole
 
         static void Ex1()
         {
+            int ammountOfa = 0;
             Boolean Ex1 = true;
             Console.WriteLine("Escreve uma frase oh jovem:");
             do
@@ -55,17 +56,64 @@ namespace Freq_1_whole
                 if (sentence.Contains("."))
                 {
                     Console.WriteLine("Escreve uma frase COMPATIVEL oh jovem:");
+                    continue;
+                }
+
+                string[] strArray = new string[10];
+                string sep = " ";
+                strArray = sentence.Split(sep);
+                
+                foreach (var lavras in strArray)
+                {
+                    if (lavras.Contains(" a") || lavras.Contains(" A") || lavras.StartsWith("a") || lavras.StartsWith("A"))
+                    {
+                        ammountOfa += 1;
+                    }
+                }
+
+                if (ammountOfa == 0)
+                {
+                    Console.WriteLine("A tua frase não tem às morcao do caralho foda-se");
+                    Console.ReadLine();
+                    Ex1 = false;
                 }
                 else
                 {
+                    Console.Write("A tua frase tem ");
+                    Console.Write(ammountOfa);
+                    Console.WriteLine(" a's! queres um biscoito?");
+                    Console.ReadLine();
                     Ex1 = false;
                 }
+
             } while (Ex1);
         }
 
         static void Ex2()
         {
-            
+            Boolean Ex2 = true;
+            Random randomNum = new Random(); 
+            int generatedNum = randomNum.Next(1, 21);
+            Console.WriteLine(generatedNum);
+            Console.WriteLine("Wich number out of 20 was randomly chosen?");
+            do
+            {
+                int writtenNum = int.Parse(Console.ReadLine());
+                if (generatedNum == writtenNum)
+                {
+                    Console.Write("You got it right! The number was: ");
+                    Console.WriteLine(generatedNum);
+                    Console.WriteLine("Press any key to go back to the menu.");
+                    Console.ReadKey();
+                    Ex2 = false;
+                }else if (writtenNum > generatedNum)
+                {
+                    Console.Write("Lower...");
+                }else if (writtenNum < generatedNum)
+                {
+                    Console.Write("Higher...");
+                }
+            } while (Ex2);
         }
     }
 }
