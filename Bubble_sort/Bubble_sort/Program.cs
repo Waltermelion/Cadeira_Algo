@@ -11,7 +11,10 @@ namespace Bubble_sort
             for (int i = 0; i < 5; i++)
             {
                 arrayNum[i].CompareTo(arrayNum[i+1]);
+                if (arrayNum[i] > arrayNum[i+1])
+                {
 
+                }
             }
         }
     }
