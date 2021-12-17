@@ -10,7 +10,8 @@ namespace Bubble_sort
             int[] arrayNum = new int[] { 9, 3, 2, 7, 1 };
             for (int i = 0; i < 5; i++)
             {
-                
+                arrayNum[i].CompareTo(arrayNum[i+1]);
+
             }
         }
     }
